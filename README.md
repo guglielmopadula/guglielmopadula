@@ -11,3 +11,6 @@ I'm doing a PhD in  at the Scuola Internazione Superiore di Studi Avanzati (SISS
 
 - 📫 How to reach me:
   - my email address is **gpadula@sissa.it**
+
+- ❓ Curiosities:
+  - I try to keep all my repositories public. As a consequence only few them have clean code.
