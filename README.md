@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Guglielmo 👋
+I'm doing a PhD in  at the Scuola Internazione Superiore di Studi Avanzati (SISSA).  
+- 🔭 I’m doing **research** at [*mathLab*](https://mathlab.sissa.it/) @ SISSA
+  - Generative Models
+  - Shape Deformation
+  - Fluid dynamics simulations
 
-<!--
-**guglielmopadula/guglielmopadula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently **learning**  
+  - Continuum Mechanics
+  - Navier Stokes equations
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me:
+  - my email address is **gpadula@sissa.it**
